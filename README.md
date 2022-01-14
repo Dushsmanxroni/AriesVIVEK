@@ -5,11 +5,11 @@
   <b>𝘼𝙍𝙄𝙀𝙎 𝙭 𝙎𝙋𝘼𝙈</b>
 </h1>
 
-[![Forks](https://img.shields.io/github/forks/D3stroyer-xD/AriesSpamBot?style=flat-square&color=orange)](https://github.com/D3stroyer-xD/AriesSpamBot/fork)
+[![Forks](https://img.shields.io/github/forks/D3stroyer-xD/AriesSpamBot?style=flat-square&color=orange)](https://github.com/gh repo clone Dushsmanxroni/AriesVIVEK
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/D3stroyer-xD/AriesSpamBot)   
 ----
- 
+ gh repo clone Dushsmanxroni/AriesVIVEK
 
 
 ### Generate string session from below:
